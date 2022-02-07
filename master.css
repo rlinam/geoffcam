@@ -9,6 +9,13 @@ body{
   padding: 10px;
 }
 
+.privacy{
+  font-family: 'Heebo', sans-serif;
+  text-align: center;
+  font-size: 1rem;
+  padding: 15px;
+}
+
 iframe{
   width: 1000px;
   height: 600px;
@@ -21,6 +28,9 @@ iframe{
     font-size: 1.2rem;
     text-align: center;
     padding: 10px;
+  }
+  .privacy{
+    font-size: 0.8rem;
   }
 }
 
